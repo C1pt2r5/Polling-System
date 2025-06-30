@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Polling-System/static/css/main.e6c13ad2.css",
+    "main.js": "/Polling-System/static/js/main.d9eaa8b6.js",
+    "index.html": "/Polling-System/index.html",
+    "main.e6c13ad2.css.map": "/Polling-System/static/css/main.e6c13ad2.css.map",
+    "main.d9eaa8b6.js.map": "/Polling-System/static/js/main.d9eaa8b6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.d9eaa8b6.js"
+  ]
+}
